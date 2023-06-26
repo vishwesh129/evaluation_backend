@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,5 +16,15 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.3.1",
     "nodemon": "^2.0.22"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwesh129/evaluation_backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishwesh129/evaluation_backend/issues"
+  },
+  "homepage": "https://github.com/vishwesh129/evaluation_backend#readme",
+  "description": ""
 }
